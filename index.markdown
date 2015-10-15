@@ -9,7 +9,4 @@ title: jasonmc@github
 What is this?
 ==============
 
-
-
-
-I'm [Jason McCandless](https://www.jasonmc.net/), <del>a Ph.D. student in Computer Science at Trinity College, Dublin</del> software developer at ZocDoc in New York City.
+I'm [Jason McCandless](http://www.jasonmc.net/), a computer scientist at Google in New York City.
